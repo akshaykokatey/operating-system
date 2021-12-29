@@ -6,7 +6,7 @@ int main()
 
 {
 
- printf("Program is created by Akshay kokatey\n");
+
 
 int RQ[100],i,n,TotalHeadMoment=0,initial;
 
