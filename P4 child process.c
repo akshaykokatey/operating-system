@@ -16,7 +16,7 @@ int main()
 
     printf("creating a child..\n");
 
-    printf("Program created by Akshay kokatey\n");
+    printf("Program created by student\n");
 
     return 0;
 
